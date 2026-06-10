@@ -1,0 +1,129 @@
+APPOINTMENT SCHEDULING POLICY
+Patient Access and Scheduling Operations
+Effective Date: January 15, 2024 | Version: 5.0
+Department: Patient Access Services
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: SCHEDULING CHANNELS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Patients may schedule appointments through the following channels:
+
+1.1 Online Patient Portal
+   URL: mypatientportal.healthorg.com
+   Available: 24 hours/day, 7 days/week
+   Features: Book, modify, cancel appointments; view provider availability; receive instant confirmation.
+
+1.2 Mobile App
+   App: MyHealthConnect™ (iOS and Android)
+   Available: 24 hours/day, 7 days/week
+   Features: Same as patient portal plus push notifications.
+
+1.3 Phone Scheduling
+   Number: (555) 123-4567
+   Hours: Monday – Friday: 7:00 AM – 7:00 PM | Saturday: 8:00 AM – 2:00 PM
+   For after-hours urgent (non-emergency) needs, our nurse triage line is available at (555) 123-4599.
+
+1.4 In-Person
+   At any of our clinic registration desks during operational hours.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: APPOINTMENT TYPES AND LEAD TIMES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 Same-Day Appointments
+Available for acute minor illnesses (cold, flu-like symptoms, UTI, minor rash, etc.) on a first-come, first-served basis. Same-day slots open at 7:00 AM. Call or book online early, as slots fill quickly.
+
+2.2 Routine / Wellness Appointments
+Typically available within 3–7 business days. Includes annual physicals, wellness exams, chronic disease management, and preventive screenings.
+
+2.3 Specialist Consultations
+Typically available within 7–21 business days depending on specialty and urgency. A referral from your primary care provider may be required by your insurance plan.
+
+2.4 Urgent Care Appointments
+For conditions that need prompt attention but are not life-threatening (suspected fractures, lacerations requiring stitches, high fever, moderate infections). Available Monday–Friday until 5:00 PM; Saturday until 1:00 PM.
+
+2.5 Procedure Appointments
+Colonoscopy, minor surgical procedures, infusions, and imaging studies require pre-scheduling with adequate preparation time. Lead times vary: 1–6 weeks depending on the procedure.
+
+2.6 Annual Physical and Preventive Screenings
+We recommend scheduling your annual physical and preventive screenings (mammogram, colonoscopy, bone density) at least 4–6 weeks in advance. These can be combined with your primary care visit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: CANCELLATION AND NO-SHOW POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 Cancellation Policy
+We ask that you cancel or reschedule appointments at least 24 hours in advance. This allows us to offer that time slot to another patient in need.
+
+To cancel: Log in to the patient portal, use the mobile app, or call (555) 123-4567.
+
+3.2 Late Cancellation (less than 24 hours)
+Late cancellations (within 24 hours of the appointment) may incur a $35 administrative fee. This fee is not covered by insurance.
+
+3.3 No-Show Policy
+A no-show is defined as failing to attend a scheduled appointment without prior notice. No-show fees:
+   • First no-show:   $35 administrative fee.
+   • Second no-show:  $50 administrative fee and a mandatory phone check-in before next scheduling.
+   • Third no-show:   $75 fee and potential transfer to walk-in-only scheduling status pending review.
+
+3.4 Exceptions
+Fees are waived for: documented medical emergencies, transportation failures with advance notification, severe weather (at clinic management's discretion), and first-time patients.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: CHECK-IN REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 Arrival Time
+Please arrive 15 minutes early for your first appointment with a new provider and 10 minutes early for all subsequent visits to complete check-in.
+
+4.2 Required Documents at Check-In
+   • Valid government-issued photo ID (driver's licence, passport, state ID).
+   • Current insurance card(s) — both primary and secondary if applicable.
+   • Completed registration/intake forms (if not submitted online).
+   • Referral documentation (if required by your insurance plan).
+   • List of current medications, supplements, and allergies.
+   • Co-payment (credit/debit card, HSA/FSA card, or cash).
+
+4.3 Late Arrivals
+Patients arriving more than 10 minutes late for a routine appointment may be asked to reschedule. Patients arriving up to 20 minutes late for a 30+ minute appointment will be accommodated when provider schedule allows.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: SPECIAL SCHEDULING CONSIDERATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1 Language Interpretation Services
+We offer professional medical interpretation services in over 150 languages at no cost. Request an interpreter when scheduling your appointment. Same-day requests are accommodated based on availability.
+
+5.2 Accessibility Accommodations
+Patients requiring wheelchair access, sign language interpretation, large-print materials, or other accommodations should notify us when scheduling. All our facilities are ADA-compliant.
+
+5.3 Paediatric Appointments
+Patients under 18 must be accompanied by a parent or legal guardian at all appointments, except for services where state law permits minor consent (e.g., sexual health, substance use, mental health in certain states).
+
+5.4 Chaperone Policy
+Patients may request a chaperone (clinic staff member) for any examination. Providers may also request a chaperone present. This is documented in the visit record.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: APPOINTMENT REMINDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You will receive appointment reminders via:
+   • Email: 72 hours before the appointment.
+   • Text message (SMS): 48 hours before.
+   • Phone call: 24 hours before (for patients who opted in).
+
+To update your communication preferences, log in to the patient portal → Profile → Notification Settings.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: AFTER-HOURS AND EMERGENCY CONTACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For urgent non-emergency medical questions after hours:
+   • Nurse Triage Line: (555) 123-4599 — available 24 hours/day, 7 days/week.
+   • Nurse advice is available via the patient portal messaging system.
+
+For emergencies: Call 911 or go to your nearest Emergency Room immediately.
+
+Scheduling Office: scheduling@healthcareorg.com | (555) 123-4567
+Document Owner: Patient Access Services | Next Review: January 2025

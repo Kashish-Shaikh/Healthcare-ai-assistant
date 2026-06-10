@@ -1,0 +1,136 @@
+TELEHEALTH SERVICES POLICY
+Virtual Care Guidelines and Patient Instructions
+Effective Date: March 1, 2024 | Version: 2.5
+Department: Clinical Operations & Telehealth Services
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: OVERVIEW AND PURPOSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Telehealth services (also referred to as telemedicine or virtual care) allow patients to receive clinical consultations, follow-up care, chronic disease management, and health counselling via secure video or telephone connections. This policy governs the use of telehealth services provided by our organisation and outlines patient eligibility, technical requirements, billing procedures, and clinical protocols.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: PATIENT ELIGIBILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 Eligible Patients
+Telehealth visits are available to:
+  • Established patients who have had at least one in-person visit within the past 36 months.
+  • New patients for primary care, behavioural health, and nutrition consultations (subject to provider discretion).
+  • Patients aged 18 and over; patients under 18 require parental or guardian consent.
+  • Patients residing in a state where our providers are licenced to practise.
+
+2.2 Conditions Well-Suited for Telehealth
+  • Medication management and prescription refills.
+  • Follow-up care for chronic conditions (diabetes, hypertension, asthma).
+  • Mental health counselling and psychiatry consultations.
+  • Dermatology (skin condition assessment via video).
+  • Minor illness: colds, sinusitis, urinary tract infections, rashes.
+  • Lab or imaging result reviews.
+  • Preventive care consultations and health coaching.
+  • Nutritional counselling and lifestyle management.
+
+2.3 Conditions NOT Appropriate for Telehealth
+The following require an in-person evaluation:
+  • Chest pain, shortness of breath, or other acute cardiac symptoms.
+  • Severe abdominal pain.
+  • Physical trauma, injuries, or suspected fractures.
+  • High fever (>103°F / 39.4°C) in adults or any fever in infants <3 months.
+  • Conditions requiring physical examination (e.g., hernia, lymph node assessment).
+  • Emergency mental health situations (suicidal ideation, psychosis).
+  If you experience any of the above, go to the nearest emergency room or call 911.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: TECHNOLOGY REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 Required Equipment
+  • A smartphone, tablet, laptop, or desktop computer.
+  • A working front-facing camera and microphone.
+  • Stable internet connection (minimum 5 Mbps download / 2 Mbps upload recommended).
+  • A quiet, private location to protect your confidentiality.
+
+3.2 Supported Platforms
+Telehealth visits are conducted via our secure, HIPAA-compliant patient portal (MyHealthConnect™). The platform supports:
+  • Web browsers: Chrome (v90+), Firefox (v88+), Safari (v14+), Edge (v90+).
+  • Mobile apps: iOS 14+ and Android 10+ (available in App Store and Google Play).
+
+3.3 Technical Troubleshooting
+If you experience technical difficulties:
+  (a) Close the app/browser and rejoin using the link in your appointment confirmation email.
+  (b) Check your internet connection and move closer to your router.
+  (c) Disable VPN software, which can interfere with video quality.
+  (d) If video fails after 5 minutes, your provider will call you on the phone number on file.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: SCHEDULING AND ACCESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 How to Schedule a Telehealth Appointment
+  Option A — Patient Portal: Log in at mypatientportal.healthorg.com → Appointments → Schedule Virtual Visit.
+  Option B — Phone: Call our scheduling line at (555) 234-5678, Monday–Friday, 7:00 AM–7:00 PM.
+  Option C — Mobile App: Open MyHealthConnect™ → tap "Book Appointment" → select "Video Visit".
+
+4.2 Appointment Hours
+Virtual visits are available:
+  • Monday – Friday:  7:00 AM – 8:00 PM (local time)
+  • Saturday:         8:00 AM – 4:00 PM
+  • Sunday:           Closed (urgent needs: use urgent care or emergency services)
+
+4.3 Same-Day Telehealth
+Same-day virtual appointments for acute minor illnesses are available Monday–Friday until 4:00 PM. Book online or call by 3:30 PM for same-day scheduling.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: PATIENT PREPARATION CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before your telehealth appointment:
+  ☐ Confirm your appointment via the portal or reminder text/email.
+  ☐ Complete any pre-visit forms or symptom questionnaires in the portal.
+  ☐ Update your medication list and have all current medications visible.
+  ☐ Prepare a list of questions or concerns for your provider.
+  ☐ Test your camera and microphone 15 minutes before the visit.
+  ☐ Be in a quiet, well-lit, private location.
+  ☐ Have your health insurance card and photo ID accessible.
+  ☐ Ensure your device is charged (or plugged in) for the duration.
+  ☐ Have a blood pressure cuff, thermometer, or pulse oximeter handy if monitoring vitals.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: INSURANCE AND BILLING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6.1 Coverage
+Most major insurance plans cover telehealth visits at the same rate as in-person visits following the Consolidated Appropriations Act and state parity laws. However, coverage depends on your specific plan.
+
+6.2 Co-payments
+Your telehealth visit co-payment is typically the same as your in-person primary care co-payment. Please verify with your insurance provider before your visit.
+
+6.3 Uninsured Patients
+Uninsured patients qualify for our Sliding Scale Fee Programme. Standard telehealth consultation rates are:
+  • Primary care visit:        $75 – $120 (15–30 minutes)
+  • Specialist consultation:   $120 – $200 (30–45 minutes)
+  • Mental health session:     $90 – $150 (45–50 minutes)
+
+6.4 Payment Collection
+Co-payments and self-pay fees are collected via credit card, debit card, or HSA/FSA card at the time of service through the secure payment module in the patient portal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: PRESCRIPTIONS AND REFERRALS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7.1 Electronic Prescriptions
+Providers may issue electronic prescriptions (e-prescriptions) during telehealth visits for most medications, which are sent directly to your preferred pharmacy.
+
+7.2 Controlled Substances
+Prescribing controlled substances (DEA Schedule II–V) via telehealth is restricted under the Ryan Haight Online Pharmacy Consumer Protection Act. Exceptions apply for patients already established on a controlled substance regimen with appropriate in-person history. Consult your provider.
+
+7.3 Referrals
+Providers may issue specialist referrals during telehealth visits. Referral authorisation is submitted electronically to your insurance and the specialist's office.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8: PRIVACY AND CONFIDENTIALITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+All telehealth consultations are conducted over end-to-end encrypted, HIPAA-compliant video platforms. Visits are not recorded without explicit written consent from the patient. All clinical notes from telehealth visits are stored in the patient's EHR with the same protections as in-person visit records.
+
+Document Owner: Telehealth Operations | Next Review: March 2025

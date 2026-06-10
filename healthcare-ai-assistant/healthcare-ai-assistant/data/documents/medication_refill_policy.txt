@@ -1,0 +1,130 @@
+MEDICATION REFILL POLICY
+Pharmacy Coordination and Prescription Management
+Effective Date: January 1, 2024 | Version: 3.3
+Department: Clinical Pharmacy Services
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: GENERAL REFILL GUIDELINES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.1 Standard Refill Request Process
+To request a medication refill, you may:
+   Option A — Patient Portal: Log in → Medications → Request Refill. Select the medication and preferred pharmacy. Requests are processed within 2 business days.
+   Option B — Pharmacy Direct: Most pharmacies can send electronic refill requests directly to your provider on your behalf. Allow 2–3 business days.
+   Option C — Phone: Call your provider's office during business hours: Monday–Friday, 8:00 AM – 5:00 PM at (555) 234-5678.
+
+1.2 Processing Time
+Standard refill requests are processed within:
+   • Routine medications (non-controlled): 2 business days.
+   • Controlled substances (Schedule II–V): Up to 5 business days; may require an in-person or telehealth visit.
+   • Prior authorisation required: 5–10 business days (depends on insurance response).
+
+1.3 Best Practices
+   • Request refills 7–10 days before your current supply runs out.
+   • Keep your pharmacy contact information updated in the patient portal.
+   • Ensure your insurance information is current to avoid prior authorisation delays.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: CONTROLLED SUBSTANCE PRESCRIPTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 DEA Schedule Classifications
+   • Schedule II:  High potential for abuse (e.g., oxycodone, Adderall, fentanyl).
+   • Schedule III: Moderate potential (e.g., buprenorphine, certain testosterone preparations).
+   • Schedule IV:  Lower potential (e.g., benzodiazepines, tramadol, zolpidem).
+   • Schedule V:   Lowest potential (e.g., cough preparations with codeine).
+
+2.2 Requirements for Controlled Substance Refills
+Controlled substance prescriptions have special requirements:
+   (a) Schedule II medications CANNOT be refilled — a new prescription must be issued each time.
+   (b) Schedules III–V may be refilled up to 5 times within 6 months of the original prescription date.
+   (c) A review visit (in-person or telehealth) is required at least every 90 days for Schedule II–III medications.
+   (d) Urine drug screening may be required as part of your medication management programme.
+   (e) Lost or stolen controlled substance prescriptions will not be replaced without a police report and provider review.
+
+2.3 Pain Management Agreement
+Patients prescribed opioid medications must sign a Pain Management Agreement, which includes:
+   • Agreement to use medications only as prescribed.
+   • Consent to random drug screening.
+   • Agreement not to seek controlled substances from other providers simultaneously.
+   • Acknowledgement of safe storage and disposal requirements.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: PRIOR AUTHORISATION FOR MEDICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 When Prior Authorisation Is Required
+Insurance plans may require prior authorisation (PA) for:
+   • Brand-name medications when a generic is available.
+   • High-cost specialty medications.
+   • Off-label medication use.
+   • Certain quantities exceeding the plan's standard.
+   • Step therapy requirements (trying lower-cost alternatives first).
+
+3.2 PA Process
+   (1) Your provider submits a PA request with clinical justification to your insurance.
+   (2) Insurance reviews the request (standard: 3–5 business days; urgent: 24–72 hours).
+   (3) Our Pharmacy Coordination Team notifies you of the decision.
+   (4) If denied, you and your provider can file an appeal.
+
+3.3 Bridge Supply
+If you will run out of medication while awaiting PA approval, ask your provider about:
+   • A bridge supply: A short-term prescription for a smaller quantity.
+   • Manufacturer samples.
+   • Patient assistance programmes (see Section 5).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: SPECIALTY MEDICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 Definition
+Specialty medications are complex, high-cost drugs that often require special handling (refrigeration, injection training) and ongoing monitoring. Examples include biologics (adalimumab, etanercept), oncology agents, MS therapies, and HIV antiretrovirals.
+
+4.2 Specialty Pharmacy
+Most specialty medications are dispensed through our contracted specialty pharmacy:
+   MedSpecialty Rx: 1-800-555-1234 | www.medspecialtyrx.com
+   They provide: home delivery, injection training, refill reminders, and co-pay assistance.
+
+4.3 Cold Chain Medications
+Medications requiring refrigeration will be shipped with ice packs and temperature monitoring. Ensure someone is available to receive the delivery, or arrange for in-pharmacy pickup.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: PATIENT ASSISTANCE PROGRAMMES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If you are unable to afford your medications, our Pharmacy Benefits team can assist with:
+   • Manufacturer Patient Assistance Programmes (PAP): Free or low-cost medications for eligible uninsured or underinsured patients.
+   • GoodRx / NeedyMeds coupons: Significant discounts at retail pharmacies.
+   • State Pharmaceutical Assistance Programmes (SPAP): Available in many states for seniors and low-income patients.
+   • 340B Drug Pricing Programme: Discounted medications at our federally qualified health centre locations.
+
+Contact our Pharmacy Benefits Coordinator: (555) 234-5679 | pharmacy@healthcareorg.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: MEDICATION DISPOSAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6.1 Safe Disposal
+Never flush medications down the toilet (except for a few FDA-authorised exceptions) or throw them in household trash. Options:
+   • Drug Take-Back Days: Organised by the DEA twice yearly.
+   • Year-round drop boxes: Available at all our clinic locations and many pharmacies.
+   • FDA flush list: A small number of high-risk opioids may be flushed — check the FDA website.
+
+6.2 At-Home Disposal (if no take-back option is available)
+   (1) Mix medications with coffee grounds, dirt, or kitty litter in a sealed bag.
+   (2) Remove personal information from labels.
+   (3) Dispose of the sealed bag in household trash.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: MEDICATION INTERACTIONS AND SAFETY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Always inform your provider and pharmacist of ALL medications you take, including:
+   • Over-the-counter drugs (aspirin, ibuprofen, antacids, antihistamines).
+   • Vitamins and dietary supplements.
+   • Herbal remedies (St. John's Wort, ginkgo, valerian).
+   • Recreational substances.
+   This information prevents dangerous drug-drug or drug-supplement interactions.
+
+Pharmacy Services: pharmacy@healthcareorg.com | (555) 234-5678
+Document Owner: Clinical Pharmacy Services | Next Review: January 2025

@@ -1,0 +1,154 @@
+HIPAA PRIVACY AND SECURITY GUIDELINES
+Comprehensive Patient Rights and Data Protection Policy
+Effective Date: January 1, 2024 | Version: 4.2
+Issued by: Compliance & Privacy Office
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: PURPOSE AND SCOPE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This document outlines our organisation's compliance obligations under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), as amended by the Health Information Technology for Economic and Clinical Health (HITECH) Act of 2009. These guidelines apply to all workforce members, contractors, business associates, and volunteers who access, use, or disclose Protected Health Information (PHI).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: PROTECTED HEALTH INFORMATION (PHI)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 Definition of PHI
+Protected Health Information (PHI) is any information that relates to:
+  (a) A person's past, present, or future physical or mental health condition.
+  (b) The provision of healthcare to that individual.
+  (c) Payment for healthcare services.
+
+PHI includes but is not limited to: name, address, birth date, Social Security number, telephone number, email address, medical record number, health plan beneficiary number, account numbers, certificate/licence numbers, URLs, IP addresses, biometric identifiers, full-face photographs, and any other unique identifying number or code.
+
+2.2 Electronic PHI (ePHI)
+Electronic PHI includes all PHI transmitted or maintained in electronic media, including email, electronic health records (EHR), cloud storage, mobile devices, and any internet-connected systems.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: PATIENT RIGHTS UNDER HIPAA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 Right to Access Records
+Patients have the right to inspect and obtain a copy of their PHI held in our designated record sets. Requests must be fulfilled within 30 days of receipt (extendable by one additional 30-day period with written notice). We may charge a reasonable, cost-based fee for copying.
+
+3.2 Right to Amend Records
+If a patient believes their health information is incorrect or incomplete, they may request an amendment. We must act on the request within 60 days. Amendments may be denied if the information was not created by us, is not part of the designated record set, or is accurate and complete.
+
+3.3 Right to an Accounting of Disclosures
+Patients have the right to receive an accounting of disclosures of their PHI made in the six years prior to the date of the request, except for disclosures for treatment, payment, and healthcare operations.
+
+3.4 Right to Request Restrictions
+Patients may request restrictions on how we use or disclose their PHI for treatment, payment, or healthcare operations. We are not required to agree to restrictions unless the request is to restrict disclosure to a health plan for services paid out-of-pocket in full.
+
+3.5 Right to Confidential Communications
+Patients may request that we communicate with them by alternative means or at alternative locations. We must accommodate reasonable requests.
+
+3.6 Right to Receive a Notice of Privacy Practices
+Every patient has the right to receive our Notice of Privacy Practices (NPP) at first contact and to request additional copies at any time.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: PERMISSIBLE USES AND DISCLOSURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 Treatment, Payment, and Healthcare Operations (TPO)
+We may use and disclose PHI without patient authorisation for:
+  • Treatment: Providing, coordinating, and managing healthcare.
+  • Payment: Billing, claims management, and reimbursement.
+  • Healthcare Operations: Quality assurance, staff training, accreditation, and business management.
+
+4.2 Authorised Disclosures
+All other disclosures of PHI require a valid written HIPAA authorisation signed by the patient or their personal representative, except as specifically permitted by law.
+
+4.3 Required Disclosures
+We must disclose PHI to:
+  (a) The patient (or their personal representative) when they exercise their rights.
+  (b) The Department of Health and Human Services (HHS) during compliance investigations.
+
+4.4 Public Interest and Benefit Disclosures
+PHI may be disclosed without authorisation for:
+  • Public health activities (disease reporting, injury prevention).
+  • Victims of abuse, neglect, or domestic violence.
+  • Health oversight activities.
+  • Judicial and administrative proceedings (with court order or subpoena).
+  • Law enforcement purposes (with appropriate legal process).
+  • Coroners, medical examiners, and funeral directors.
+  • Organ donation and transplantation.
+  • Research (with IRB or Privacy Board approval).
+  • Serious threats to health or safety.
+  • Workers' compensation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: MINIMUM NECESSARY STANDARD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+When using or disclosing PHI or requesting PHI from another covered entity, we must make reasonable efforts to limit PHI to the minimum necessary to accomplish the intended purpose. This standard does not apply to disclosures to healthcare providers for treatment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: SECURITY SAFEGUARDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6.1 Administrative Safeguards
+  • Security Officer designation and responsibility.
+  • Workforce training and awareness programmes.
+  • Access management — role-based access controls (RBAC).
+  • Contingency planning: backup, disaster recovery, emergency access.
+  • Periodic security risk analyses (at minimum, annually).
+
+6.2 Physical Safeguards
+  • Facility access controls (badge access, visitor logs).
+  • Workstation use policies — screen locking, clean desk policy.
+  • Device and media controls — encrypted laptops, secure disposal of hard drives.
+
+6.3 Technical Safeguards
+  • Unique user identification for all workforce members.
+  • Automatic logoff after 15 minutes of inactivity.
+  • Audit logs for all access to ePHI.
+  • Encryption in transit (TLS 1.2+) and at rest (AES-256).
+  • Integrity controls to prevent improper alteration or destruction of ePHI.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: BREACH NOTIFICATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7.1 Definition of Breach
+A breach is an impermissible use or disclosure of unsecured PHI that compromises the security or privacy of the PHI.
+
+7.2 Notification Requirements
+  • Affected individuals: Notification within 60 days of discovery.
+  • HHS Secretary: Notification within 60 days; breaches affecting ≥500 individuals in a state require notification to prominent media outlets.
+  • Business Associates: Must notify covered entities within 60 days of discovery.
+
+7.3 Breach Risk Assessment
+Not every impermissible use/disclosure constitutes a reportable breach. A risk assessment must evaluate:
+  (a) The nature and extent of PHI involved.
+  (b) The person who used or received the PHI.
+  (c) Whether PHI was actually acquired or viewed.
+  (d) The extent to which risk has been mitigated.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8: BUSINESS ASSOCIATE AGREEMENTS (BAA)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Any vendor, contractor, or third party that creates, receives, maintains, or transmits PHI on our behalf must sign a Business Associate Agreement (BAA) before accessing any PHI. BAAs must include provisions for:
+  • Safeguarding PHI.
+  • Reporting breaches.
+  • Allowing patients to exercise their rights.
+  • Ensuring sub-contractors are also bound by BAA obligations.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 9: PENALTIES FOR NON-COMPLIANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Civil monetary penalties range from $100 to $50,000 per violation, with an annual cap of $1.9 million per violation category. Criminal penalties for knowingly obtaining or disclosing PHI can result in fines up to $250,000 and imprisonment up to 10 years.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 10: PATIENT COMPLAINT PROCEDURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Patients who believe their privacy rights have been violated may file a complaint with:
+  • Our Privacy Officer: privacy@healthcareorg.com | (555) 999-0001
+  • HHS Office for Civil Rights: www.hhs.gov/ocr | 1-800-368-1019
+
+We do not retaliate against patients or workforce members for filing complaints.
+
+Document Owner: Privacy Officer | Next Review: January 2025

@@ -1,0 +1,138 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# docker-compose.yml — Healthcare AI Assistant
+#
+# Services:
+#   ollama    — Local LLM server (pulls Mistral 7B on first run)
+#   backend   — FastAPI RAG API  (depends on ollama healthy)
+#   frontend  — Streamlit UI     (depends on backend healthy)
+#
+# Quick start:
+#   cp .env.example .env
+#   docker-compose up -d
+#   # Wait ~2 min for Ollama to pull Mistral (~4 GB first time)
+#   curl -X POST http://localhost:8000/api/v1/ingest \
+#        -H "Content-Type: application/json" \
+#        -d '{"documents_dir":"data/documents"}'
+#   open http://localhost:8501
+# ─────────────────────────────────────────────────────────────────────────────
+
+version: "3.9"
+
+networks:
+  healthcare_net:
+    driver: bridge
+
+volumes:
+  ollama_data:       # Persists downloaded models across restarts
+  faiss_index:       # Persists FAISS vector index across restarts
+
+services:
+
+  # ── Ollama — Local LLM Server ───────────────────────────────────────────────
+  ollama:
+    image: ollama/ollama:latest
+    container_name: healthcare_ollama
+    restart: unless-stopped
+    networks:
+      - healthcare_net
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    environment:
+      - OLLAMA_KEEP_ALIVE=24h
+      - OLLAMA_NUM_PARALLEL=1
+    # Pull Mistral on first boot, then keep serving
+    # Using entrypoint override so the pull happens inside the container
+    entrypoint: >
+      /bin/sh -c "
+        ollama serve &
+        OLLAMA_PID=$$!
+        echo 'Waiting for Ollama to start...'
+        sleep 8
+        echo 'Pulling mistral model...'
+        ollama pull mistral
+        echo 'Mistral ready.'
+        wait $$OLLAMA_PID
+      "
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 120s   # Give time for model pull on first run
+
+  # ── FastAPI Backend ──────────────────────────────────────────────────────────
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: runtime
+    container_name: healthcare_backend
+    restart: unless-stopped
+    networks:
+      - healthcare_net
+    ports:
+      - "8000:8000"
+    volumes:
+      - faiss_index:/app/data/faiss_index
+      - ./data/documents:/app/data/documents:ro
+      - ./logs:/app/logs
+    env_file:
+      - .env
+    environment:
+      # Override so backend always finds Ollama by service name
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - FAISS_INDEX_PATH=/app/data/faiss_index
+      - DOCUMENTS_DIR=/app/data/documents
+    depends_on:
+      ollama:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 15s
+      retries: 5
+      start_period: 90s
+    command: >
+      uvicorn backend.main:app
+        --host 0.0.0.0
+        --port 8000
+        --workers 1
+        --log-level info
+
+  # ── Streamlit Frontend ───────────────────────────────────────────────────────
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: runtime
+    container_name: healthcare_frontend
+    restart: unless-stopped
+    networks:
+      - healthcare_net
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    environment:
+      - BACKEND_URL=http://backend:8000
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    command: >
+      streamlit run frontend/app.py
+        --server.port 8501
+        --server.address 0.0.0.0
+        --server.headless true
+        --browser.gatherUsageStats false
+        --theme.primaryColor "#0066CC"
+        --theme.backgroundColor "#FFFFFF"
+        --theme.secondaryBackgroundColor "#F0F4F8"
+        --theme.textColor "#1A1A2E"
